@@ -1,1 +1,5 @@
-{"name":"Ankisha", "age":24, "car":null}
+{
+    "fruit": "Apple",
+    "size": "Large",
+    "color": "Red"
+}
